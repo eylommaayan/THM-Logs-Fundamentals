@@ -102,17 +102,27 @@ Logs
 
 בתרגיל זה, עלינו לחקור פעילות של תוקף במערכת שנפרצה. כדי לענות על השאלות, עליכם לפתוח את ה-**Event Viewer** במכונה הווירטואלית, לגשת ל-**Windows Logs -> Security** ולהשתמש בסינון (Filter)
 
-בשביל להגיע לתשובה ראשונה נכנס ל- event log
-
-
-<img width="857" height="894" alt="image" src="https://github.com/user-attachments/assets/7ef37184-4f8a-44d7-8c76-8130af7bae09" />
 
 
 
 
 ### תשובות לשאלות (לפי הנתונים במכונה):
 
-1. **מהו שמו של חשבון המשתמש האחרון שנוצר במערכת?**
+1. **מהו שמו של חשבון המשתמש האחרון שנוצר במערכת
+
+בשביל להגיע לתשובה ראשונה נכנס ל- event log
+
+
+<img width="857" height="894" alt="image" src="https://github.com/user-attachments/assets/7ef37184-4f8a-44d7-8c76-8130af7bae09" />
+נסנן ל 4720 
+<img width="842" height="911" alt="image" src="https://github.com/user-attachments/assets/506b3c38-e813-45eb-b546-f1748dd8b9b9" />
+
+<img width="1506" height="614" alt="image" src="https://github.com/user-attachments/assets/65e4397b-e946-4ab2-8120-2d3eb86f4d32" />
+
+
+2. <img width="850" height="902" alt="image" src="https://github.com/user-attachments/assets/ba7518ac-34b4-4c41-a64a-e83f28d704d6" />
+
+*
 * *איך למצוא:* סננו לפי Event ID **4720**. הסתכלו על האירוע האחרון בתיאור תחת "Target Account Name".
 * **תשובה:** `CyberTeam`
 
