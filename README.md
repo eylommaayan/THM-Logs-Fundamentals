@@ -120,11 +120,7 @@ Logs
 <img width="1506" height="614" alt="image" src="https://github.com/user-attachments/assets/65e4397b-e946-4ab2-8120-2d3eb86f4d32" />
 
 
-2. <img width="850" height="902" alt="image" src="https://github.com/user-attachments/assets/ba7518ac-34b4-4c41-a64a-e83f28d704d6" />
 
-*
-* *איך למצוא:* סננו לפי Event ID **4720**. הסתכלו על האירוע האחרון בתיאור תחת "Target Account Name".
-* **תשובה:** `CyberTeam`
 
 
 2. **איזה חשבון משתמש יצר את החשבון הנ"ל?**
